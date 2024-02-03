@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[5, 0], [15, 0], [10, 10], [5, 0]]]
+      },
+      "properties": {
+        "name": "Sample Polygon"
+      }
+    }
+  ]
+}
